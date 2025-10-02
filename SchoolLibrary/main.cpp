@@ -15,9 +15,9 @@ int UserIndexing = 0;
     string borrowedBooks[50];
 string lendedusers[50];
 int browed_ID = 0;
-string admin_password = "admin123";
+string admin_password ;
 bool admin_logged_in = false;
-string admin_username = "abcde";
+string admin_username ;
 
 
 
