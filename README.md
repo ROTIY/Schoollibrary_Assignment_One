@@ -61,12 +61,13 @@ This project is a simple C++ console application for managing a school library. 
 
 **Note:** All data is stored in memory and will be lost when the program exits.
 
-- Use dynamic data structures (like vectors or lists) instead of fixed-size arrays for scalability.
-- Implement persistent storage (e.g., file or database) so data is not lost when the program exits.
-- Add more user roles and permissions (e.g., librarian, student).
-- Improve input validation and error handling for robustness.
-- Enhance security for admin authentication (e.g., password hashing, hidden input).
-- Create a menu-driven interface for easier navigation.
-- Add features for borrowing/returning books and tracking book status.
-- Support searching and filtering books and users.
-- Refactor code for modularity and maintainability (separate files/classes).
+5. ** Plans for future improvements **
+	- Use dynamic data structures (like vectors or lists) instead of fixed-size arrays for scalability.
+	- Implement persistent storage (e.g., file or database) so data is not lost when the program exits.
+	- Add more user roles and permissions (e.g., librarian, student).
+	- Improve input validation and error handling for robustness.
+	- Enhance security for admin authentication (e.g., password hashing, hidden input).
+	- Create a menu-driven interface for easier navigation.
+	- Add features for borrowing/returning books and tracking book status.
+	- Support searching and filtering books and users.
+	- Refactor code for modularity and maintainability (separate files/classes).
