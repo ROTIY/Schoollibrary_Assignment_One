@@ -61,7 +61,7 @@ This project is a simple C++ console application for managing a school library. 
 
 **Note:** All data is stored in memory and will be lost when the program exits.
 
-5. ** Plans for future improvements **
+5. **Plans for future improvements**
 	- Use dynamic data structures (like vectors or lists) instead of fixed-size arrays for scalability.
 	- Implement persistent storage (e.g., file or database) so data is not lost when the program exits.
 	- Add more user roles and permissions (e.g., librarian, student).
